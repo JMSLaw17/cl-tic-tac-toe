@@ -1,0 +1,6 @@
+{
+  "name": "ttt",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
